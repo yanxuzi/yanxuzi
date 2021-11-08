@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ultratoday&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanxuzi&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ultratoday&repo=noterecord0610)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yanxuzi&repo=noterecord0610)](https://github.com/anuraghazra/github-readme-stats)
 -->
 ### 好汉 👋 
 ### 此地是 UltraToday 的主页
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 #### :computer: 编程语言和工具: 
 <p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ultratoday&show_icons=true&hide_border=true" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=yanxuzi&show_icons=true&hide_border=true" />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
