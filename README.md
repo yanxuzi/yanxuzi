@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yanxuzi&repo=noterecord0610)](https://github.com/anuraghazra/github-readme-stats)
 -->
 ### 好汉 👋 
-### 此地是 UltraToday 的主页
+### 此地是 ** 的主页
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yanxuzi)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:todayuntra@gmail.com)
